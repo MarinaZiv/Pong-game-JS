@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; display: block; z-index: 1; position: relative; shape-rendering: auto;" width="1731" height="842" preserveAspectRatio="xMidYMid" viewBox="0 0 1731 842">
+<g transform="translate(865.5,421) scale(1,-1) translate(-865.5,-421)"><linearGradient id="lg-0.2251809015556967" x1="0" x2="1" y1="0" y2="0">
+  <stop stop-color="#0a1b2a" offset="0"></stop>
+  <stop stop-color="#204651" offset="1"></stop>
+</linearGradient><path d="" fill="url(#lg-0.2251809015556967)" opacity="0.4">
+  <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="0s" values="M0 0L 0 476.254180406392Q 432.75 614.0814073978516  865.5 592.573957774101T 1731 548.3029063894272L 1731 0 Z;M0 0L 0 604.4949354235473Q 432.75 558.1446358708313  865.5 526.5961052693704T 1731 571.48923237712L 1731 0 Z;M0 0L 0 512.276980155731Q 432.75 597.8997368702115  865.5 548.6235955998297T 1731 537.571681170547L 1731 0 Z;M0 0L 0 476.254180406392Q 432.75 614.0814073978516  865.5 592.573957774101T 1731 548.3029063894272L 1731 0 Z"></animate>
+</path><path d="" fill="url(#lg-0.2251809015556967)" opacity="0.4">
+  <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;0.5 0 0.5 1" begin="-10s" values="M0 0L 0 514.7037846114292Q 432.75 627.4241823545752  865.5 600.8415627576819T 1731 466.3213386046825L 1731 0 Z;M0 0L 0 579.4506946522617Q 432.75 625.480394652792  865.5 600.3925837541385T 1731 518.2481556624839L 1731 0 Z;M0 0L 0 591.5853110954254Q 432.75 522.4379446414097  865.5 502.9043836620068T 1731 499.28736560067847L 1731 0 Z;M0 0L 0 514.7037846114292Q 432.75 627.4241823545752  865.5 600.8415627576819T 1731 466.3213386046825L 1731 0 Z"></animate>
+</path></g>
+</svg>
